@@ -1,6 +1,6 @@
-# 💓 Unsupervised Domain Adaptation for Ejection Fraction Regression in Echocardiography Using Vision Transformers
+#  Unsupervised Domain Adaptation for Ejection Fraction Regression in Echocardiography Using Vision Transformers
 
-**🌍 World's First Transformer-Based UDA Pipeline** for echocardiogram-based EF estimation that **surpasses Stanford's baseline** and current SOTA models.
+**World's First Transformer-Based UDA Pipeline** for echocardiogram-based EF estimation that **surpasses Stanford's baseline** and current SOTA models.
 
 Achieved **MAE = 2.90** and **R² = 0.05** on **EchoNet-LVH** (cross-domain), setting a new benchmark for real-world echocardiographic EF regression.
 
